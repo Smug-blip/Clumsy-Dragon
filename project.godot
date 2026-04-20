@@ -1,0 +1,9 @@
+[godot]
+config_version=4
+
+[project]
+name="Clumsy Dragon"
+version=0.1.0
+
+[dependencies]
+# Add your dependencies here.
